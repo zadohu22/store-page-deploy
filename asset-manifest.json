@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/store-page-deploy/static/css/main.669b10b6.css",
+    "main.js": "/store-page-deploy/static/js/main.a24d31dd.js",
+    "static/media/matheo-jbt-yqIFxfERlpU-unsplash.jpg": "/store-page-deploy/static/media/matheo-jbt-yqIFxfERlpU-unsplash.fd081f86136e0bca50b8.jpg",
+    "static/media/pexels-jens-johnsson-66090.jpg": "/store-page-deploy/static/media/pexels-jens-johnsson-66090.caff3ef7543f0cd42b26.jpg",
+    "static/media/pexels-pixabay-40654.jpg": "/store-page-deploy/static/media/pexels-pixabay-40654.d113dbbf410ad0b97833.jpg",
+    "static/media/pexels-marko-obrvan-304784.jpg": "/store-page-deploy/static/media/pexels-marko-obrvan-304784.5f3a6b6d4a88239f030f.jpg",
+    "static/media/pexels-thorn-yang-401098.jpg": "/store-page-deploy/static/media/pexels-thorn-yang-401098.06e32cfac123b418b509.jpg",
+    "static/media/pexels-david-bartus-879521.jpg": "/store-page-deploy/static/media/pexels-david-bartus-879521.a2494037aeb3ba2a52b9.jpg",
+    "static/media/pexels-lisa-fotios-1346155.jpg": "/store-page-deploy/static/media/pexels-lisa-fotios-1346155.003aa6ed6ca14431bcfb.jpg",
+    "index.html": "/store-page-deploy/index.html",
+    "main.669b10b6.css.map": "/store-page-deploy/static/css/main.669b10b6.css.map",
+    "main.a24d31dd.js.map": "/store-page-deploy/static/js/main.a24d31dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.669b10b6.css",
+    "static/js/main.a24d31dd.js"
+  ]
+}
