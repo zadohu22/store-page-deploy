@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+#numberButton::-webkit-outer-spin-button,
+#numberButton::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#numberButton{
+    -moz-appearance: textfield;
+}
+
+#numberButton:invalid {
+    border: 3px solid red;
+}
+
+#addToCart:hover{
+    background-color: rgb(52, 92, 168);
+}
